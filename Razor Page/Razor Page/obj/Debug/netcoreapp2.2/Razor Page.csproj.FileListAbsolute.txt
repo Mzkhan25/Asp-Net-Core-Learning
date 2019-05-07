@@ -1,0 +1,35 @@
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\bin\Debug\netcoreapp2.2\Razor Page.deps.json
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\bin\Debug\netcoreapp2.2\Razor Page.runtimeconfig.json
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\bin\Debug\netcoreapp2.2\Razor Page.runtimeconfig.dev.json
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\bin\Debug\netcoreapp2.2\Razor Page.dll
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor Page.csprojAssemblyReference.cache
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor Page.csproj.CoreCompileInputs.cache
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor Page.RazorAssemblyInfo.cache
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor Page.RazorAssemblyInfo.cs
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor Page.AssemblyInfoInputs.cache
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor Page.AssemblyInfo.cs
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor Page.TagHelpers.input.cache
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor Page.TagHelpers.output.cache
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor Page.RazorCoreGenerate.cache
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor Page.RazorTargetAssemblyInfo.cache
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor Page.RazorTargetAssemblyInfo.cs
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\bin\Debug\netcoreapp2.2\Razor Page.pdb
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\bin\Debug\netcoreapp2.2\Razor Page.Views.dll
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\bin\Debug\netcoreapp2.2\Razor Page.Views.pdb
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor Page.Views.pdb
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor Page.dll
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor Page.pdb
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor Page.csproj.CopyComplete
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Create.g.cshtml.cs
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Delete.g.cshtml.cs
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Details.g.cshtml.cs
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Edit.g.cshtml.cs
+F:\Sukebe\Repos\Self Learning\Asp-Net-Core-Learning\Razor Page\Razor Page\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Index.g.cshtml.cs
